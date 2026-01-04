@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\dibanubh\.nuget\packages\</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.8.0</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <SourceRoot Include="C:\Users\dibanubh\.nuget\packages\" />
+  </ItemGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgAWSSDK_Core Condition=" '$(PkgAWSSDK_Core)' == '' ">C:\Users\dibanubh\.nuget\packages\awssdk.core\4.0.3.3</PkgAWSSDK_Core>
+    <PkgAWSSDK_SimpleNotificationService Condition=" '$(PkgAWSSDK_SimpleNotificationService)' == '' ">C:\Users\dibanubh\.nuget\packages\awssdk.simplenotificationservice\4.0.2.4</PkgAWSSDK_SimpleNotificationService>
+    <PkgAWSSDK_S3 Condition=" '$(PkgAWSSDK_S3)' == '' ">C:\Users\dibanubh\.nuget\packages\awssdk.s3\4.0.14</PkgAWSSDK_S3>
+    <PkgAWSSDK_DynamoDBv2 Condition=" '$(PkgAWSSDK_DynamoDBv2)' == '' ">C:\Users\dibanubh\.nuget\packages\awssdk.dynamodbv2\4.0.10.1</PkgAWSSDK_DynamoDBv2>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,14 @@
+C:\Udemy\HotelMan_HotelAdmin\HotelMan_HotelAdmin\obj\Release\net8.0\linux-x64\HotelMan_HotelAdmin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\HotelMan_HotelAdmin\HotelMan_HotelAdmin\obj\Release\net8.0\linux-x64\HotelMan_HotelAdmin.AssemblyInfoInputs.cache
+C:\Udemy\HotelMan_HotelAdmin\HotelMan_HotelAdmin\obj\Release\net8.0\linux-x64\HotelMan_HotelAdmin.AssemblyInfo.cs
+C:\Udemy\HotelMan_HotelAdmin\HotelMan_HotelAdmin\obj\Release\net8.0\linux-x64\HotelMan_HotelAdmin.csproj.CoreCompileInputs.cache
+C:\Udemy\HotelMan_HotelAdmin\HotelMan_HotelAdmin\bin\Release\net8.0\linux-x64\HotelMan_HotelAdmin.deps.json
+C:\Udemy\HotelMan_HotelAdmin\HotelMan_HotelAdmin\bin\Release\net8.0\linux-x64\HotelMan_HotelAdmin.runtimeconfig.json
+C:\Udemy\HotelMan_HotelAdmin\HotelMan_HotelAdmin\bin\Release\net8.0\linux-x64\HotelMan_HotelAdmin.dll
+C:\Udemy\HotelMan_HotelAdmin\HotelMan_HotelAdmin\bin\Release\net8.0\linux-x64\HotelMan_HotelAdmin.pdb
+C:\Udemy\HotelMan_HotelAdmin\HotelMan_HotelAdmin\obj\Release\net8.0\linux-x64\HotelMan_HotelAdmin.csproj.AssemblyReference.cache
+C:\Udemy\HotelMan_HotelAdmin\HotelMan_HotelAdmin\obj\Release\net8.0\linux-x64\HotelMan_HotelAdmin.dll
+C:\Udemy\HotelMan_HotelAdmin\HotelMan_HotelAdmin\obj\Release\net8.0\linux-x64\refint\HotelMan_HotelAdmin.dll
+C:\Udemy\HotelMan_HotelAdmin\HotelMan_HotelAdmin\obj\Release\net8.0\linux-x64\HotelMan_HotelAdmin.pdb
+C:\Udemy\HotelMan_HotelAdmin\HotelMan_HotelAdmin\obj\Release\net8.0\linux-x64\HotelMan_HotelAdmin.genruntimeconfig.cache
+C:\Udemy\HotelMan_HotelAdmin\HotelMan_HotelAdmin\obj\Release\net8.0\linux-x64\ref\HotelMan_HotelAdmin.dll
